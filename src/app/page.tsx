@@ -1,9 +1,9 @@
-import Image from 'next/image'
-
 export default function Home() {
 	return (
-		<main className="flex  ">
-			<h1>Test</h1>
+		<main className="flex ">
+			<div className=" max-w-screen-xl mx-auto px-3">
+				<h1>test</h1>
+			</div>
 		</main>
 	)
 }
